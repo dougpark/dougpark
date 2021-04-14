@@ -8,7 +8,7 @@ Some other places you can find my work on the internet:
 * Blog [https://64zbit.com](https://64zbit.com)
 * Twitter [https://twitter.com/64zbit](https://twitter.com/64zbit)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougpark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougpark)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=radical)
 
 <!--
 **dougpark/dougpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
