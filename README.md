@@ -5,7 +5,6 @@ There are dozens of tiny toy projects that I made for fun once and don't maintai
 Some other places you can find my work on the internet:
 
 * [Blog](https://64zbit.com)
-
 * [Twitter](https://twitter.com/64zbit)
 
 <!--
