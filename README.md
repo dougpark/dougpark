@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello!
+
+There are dozens of tiny toy projects that I made for fun once and don't maintain at all.
+
+Some other places you can find my work on the internet:
+
+[64zbit.com]
+[twitter.com/64zbit]
 
 <!--
 **dougpark/dougpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
