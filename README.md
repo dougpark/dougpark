@@ -1,6 +1,6 @@
 ### Hello!
 
-There are dozens of tiny toy projects that I made for fun once and don't maintain at all.
+There are dozens of tiny projects that I made for fun once and don't maintain at all.
 
 Some other places you can find my work on the internet:
 
