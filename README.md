@@ -1,7 +1,7 @@
 ### Hello!
 
 I'm Doug and I like to experiment with hardware and software.
-There are dozens of tiny projects that I made for fun once and don't maintain at all.
+Here lies dozens of tiny projects that I made for fun once and don't maintain at all.
 
 Some other places you can find my work on the internet:
 
