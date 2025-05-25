@@ -6,6 +6,7 @@ Tech enthusiast & retired IT pro sharing personal projects, exploring new tools,
 Some other places you can find my work on the internet:
 
 * Blog [https://64zbit.com](https://64zbit.com)
+* Mastadon [https://mastodon.social/@Parkdn](https://mastodon.social/@Parkdn)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougpark&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
