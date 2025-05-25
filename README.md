@@ -1,13 +1,17 @@
 ### Hello!
 
-Tech enthusiast & retired IT pro sharing personal projects, exploring new tools, and writing about emerging tech. Always learning, always building. 🚀
+I'm a tech enthusiast and retired IT pro, now spending my time sharing personal projects, exploring new tools, and writing about emerging technology. Always learning, always building. 🚀
 
+---
 
-Some other places you can find my work on the internet:
+### 🌐 Find me elsewhere:
 
-* Blog [https://64zbit.com](https://64zbit.com)
-* Mastadon [https://mastodon.social/@Parkdn](https://mastodon.social/@Parkdn)
+- 📝 Blog: [64zbit.com](https://64zbit.com)  
+- 🐘 Mastodon: [@Parkdn@mastodon.social](https://mastodon.social/@Parkdn)
 
+---
+
+Thanks for stopping by — feel free to explore my pinned repos!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dougpark&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
