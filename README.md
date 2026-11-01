@@ -1,13 +1,14 @@
 ### Hello!
 
-I'm a tech enthusiast and retired IT pro, now spending my time sharing personal projects, exploring new tools, and writing about emerging technology. Always learning, always building. 🚀
+I'm a tech enthusiast and retired IT pro, now spending my time sharing personal projects, exploring new tools, and writing about emerging technology. Always learning, always building. 
 
 ---
 
-### 🌐 Find me elsewhere:
+### Find me elsewhere:
 
-- 📝 Blog: [64zbit.com](https://64zbit.com)  
-- 🐘 Mastodon: [@Parkdn@mastodon.social](https://mastodon.social/@Parkdn)
+
+- Blog: [theanalogpixel.com]([https://64zbit.com](https://theanalogpixel.com/blog))  
+- Mastodon: [@Parkdn@mastodon.social](https://mastodon.social/@Parkdn)
 
 ---
 
