@@ -7,7 +7,7 @@ I'm a tech enthusiast and retired IT pro, now spending my time sharing personal 
 ### Find me elsewhere:
 
 
-- Blog: [theanalogpixel.com]([https://64zbit.com](https://theanalogpixel.com/blog))  
+- Blog: [theanalogpixel.com](https://theanalogpixel.com/blog) 
 - Mastodon: [@Parkdn@mastodon.social](https://mastodon.social/@Parkdn)
 
 ---
